@@ -1,5 +1,5 @@
 # coinbase_sdk_demo
-
+This is the source code of this [Youtube video](https://youtu.be/IcN0MFkPvBk). 
 # Setup
 In the root project create a file `.env` with:
 ```
